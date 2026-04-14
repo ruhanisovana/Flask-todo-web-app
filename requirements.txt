@@ -1,4 +1,5 @@
-Flask
+flask
 cs50
 gunicorn
-Flask-Session
+flask-session
+werkzeug
